@@ -1,6 +1,9 @@
 # Case study - Datacamp Professional Certificate
 
-In this pratical exam, I must act as a Data Analyst and perform an analysis for "Pens and Printers" based on the on the email below. It is expected a Written Report and a video presentation up to 10 minutes long.
+## Summary
+Pens and Printers faces the challenge of optimizing its sales strategy by identifying the most effective communication methods to drive customer engagement and revenue. The analysis of sales data shows that the Email method is the most efficient, generating 53% of total revenue and engaging 50% of customers, while the Call method lags with only 17% revenue contribution. The Email + Call method has shown growth potential, with the highest revenue per customer (RPC) at $183.63. To address this, the company should prioritize Email marketing, reduce resources allocated to Call strategies, and regularly monitor the RPC metric to adjust strategies based on emerging trends. 
+
+ 
 
 Business Task
 Hi, Really hoping you could help me out with some analysis. This is quite short notice but I have a meeting with the executive team to update them on sales approaches for the new product line so I need this information as soon as possible.
